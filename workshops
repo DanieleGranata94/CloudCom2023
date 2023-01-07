@@ -44,38 +44,38 @@
                 <div class="menu-button w-nav-button">
                     <div class="navbar-light-icon w-icon-nav-menu"></div>
                 </div>
-                <nav role="navigation" class="nav-menu-2 w-nav-menu"><a href="/" aria-current="page"
-                        class="sub-heading-menu w-nav-link w--current">Home</a>
-                    <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
-                        <div class="dropdown-button w-dropdown-toggle">
-                            <div class="icon w-icon-dropdown-toggle"></div>
-                            <div>conference</div>
-                        </div>
-                        <nav class="w-dropdown-list"><a href="/call-for-paper"
-                                class="dropdown-conference w-dropdown-link">conference</a><a href="/workshops"
-                                class="dropdown-conference w-dropdown-link">workshop</a><a
-                                href="/call-for-participation"
-                                class="dropdown-conference w-dropdown-link">poster/demo</a><a href="/registration-fee"
-                                class="dropdown-conference w-dropdown-link">registration fee</a><a href="/committees"
-                                class="dropdown-conference w-dropdown-link">committee</a><a href="/pc-members"
-                                class="dropdown-conference w-dropdown-link">PC Member</a><a href="/program"
-                                class="dropdown-conference w-dropdown-link">program</a><a href="/keynote-session"
-                                class="dropdown-conference w-dropdown-link">keynote sessions</a></nav>
+                <nav role="navigation" class="nav-menu-2 w-nav-menu"><a href="/cloudcom2023/" aria-current="page"
+                    class="sub-heading-menu w-nav-link w--current">Home</a>
+                <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
+                    <div class="dropdown-button w-dropdown-toggle">
+                        <div class="icon w-icon-dropdown-toggle"></div>
+                        <div>conference</div>
                     </div>
-                    <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
-                        <div class="dropdown-button w-dropdown-toggle">
-                            <div class="w-icon-dropdown-toggle"></div>
-                            <div class="text-block-8">Local <br>information</div>
-                        </div>
-                        <nav class="w-dropdown-list"><a href="/local-information/venue"
-                                class="dropdown-conference w-dropdown-link">Venue</a><a href="/local-information/visa"
-                                class="dropdown-conference w-dropdown-link">visa</a><a
-                                href="/local-information/accommodation"
-                                class="dropdown-conference w-dropdown-link">accommodation</a></nav>
-                    </div><a href="https://submit.jotform.com/222778335015052"
-                        class="heading-menu w-button">register</a><a href="/call-for-participation"
-                        class="heading-menu w-button">call for Participation</a>
-                </nav>
+                    <nav class="w-dropdown-list"><a href="/cloudcom2023/call-for-paper"
+                            class="dropdown-conference w-dropdown-link">conference</a><a href="/cloudcom2023/workshops"
+                            class="dropdown-conference w-dropdown-link">workshop</a><a
+                            href="/cloudcom2023/call-for-participation"
+                            class="dropdown-conference w-dropdown-link">poster/demo</a><a href="/cloudcom2023/registration-fee"
+                            class="dropdown-conference w-dropdown-link">registration fee</a><a href="/cloudcom2023/committees"
+                            class="dropdown-conference w-dropdown-link">committee</a><a href="/cloudcom2023/pc-members"
+                            class="dropdown-conference w-dropdown-link">PC Member</a><a href="/cloudcom2023/program"
+                            class="dropdown-conference w-dropdown-link">program</a><a href="/cloudcom2023/keynote-session"
+                            class="dropdown-conference w-dropdown-link">keynote sessions</a></nav>
+                </div>
+                <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
+                    <div class="dropdown-button w-dropdown-toggle">
+                        <div class="w-icon-dropdown-toggle"></div>
+                        <div class="text-block-8">Local <br>information</div>
+                    </div>
+                    <nav class="w-dropdown-list"><a href="/local-information/venue"
+                            class="dropdown-conference w-dropdown-link">Venue</a><a href="/local-information/visa"
+                            class="dropdown-conference w-dropdown-link">visa</a><a
+                            href="/local-information/accommodation"
+                            class="dropdown-conference w-dropdown-link">accommodation</a></nav>
+                </div><a href="https://submit.jotform.com/222778335015052"
+                    class="heading-menu w-button">register</a><a href="/call-for-participation"
+                    class="heading-menu w-button">call for Participation</a>
+            </nav>
             </div>
         </div>
     </div>
