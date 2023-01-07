@@ -44,45 +44,43 @@
                 <div class="menu-button w-nav-button">
                     <div class="navbar-light-icon w-icon-nav-menu"></div>
                 </div>
-                <nav role="navigation" class="nav-menu-2 w-nav-menu"><a href="/" aria-current="page"
+                <nav role="navigation" class="nav-menu-2 w-nav-menu"><a href="/cloudcom2023/" aria-current="page"
                         class="sub-heading-menu w-nav-link w--current">Home</a>
                     <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
                         <div class="dropdown-button w-dropdown-toggle">
                             <div class="icon w-icon-dropdown-toggle"></div>
                             <div>conference</div>
                         </div>
-                        <nav role="navigation" class="nav-menu-2 w-nav-menu"><a href="/cloudcom2023/" aria-current="page"
-                            class="sub-heading-menu w-nav-link w--current">Home</a>
-                        <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
-                            <div class="dropdown-button w-dropdown-toggle">
-                                <div class="icon w-icon-dropdown-toggle"></div>
-                                <div>conference</div>
-                            </div>
-                            <nav class="w-dropdown-list"><a href="/cloudcom2023/call-for-paper"
-                                    class="dropdown-conference w-dropdown-link">conference</a><a href="/cloudcom2023/workshops"
-                                    class="dropdown-conference w-dropdown-link">workshop</a><a
-                                    href="/cloudcom2023/call-for-participation"
-                                    class="dropdown-conference w-dropdown-link">poster/demo</a><a href="/cloudcom2023/registration-fee"
-                                    class="dropdown-conference w-dropdown-link">registration fee</a><a href="/cloudcom2023/committees"
-                                    class="dropdown-conference w-dropdown-link">committee</a><a href="/cloudcom2023/pc-members"
-                                    class="dropdown-conference w-dropdown-link">PC Member</a><a href="/cloudcom2023/program"
-                                    class="dropdown-conference w-dropdown-link">program</a><a href="/cloudcom2023/keynote-session"
-                                    class="dropdown-conference w-dropdown-link">keynote sessions</a></nav>
+                        <nav class="w-dropdown-list"><a href="/cloudcom2023/call-for-paper"
+                                class="dropdown-conference w-dropdown-link">conference</a><a
+                                href="/cloudcom2023/workshops"
+                                class="dropdown-conference w-dropdown-link">workshop</a><a
+                                href="/cloudcom2023/call-for-participation"
+                                class="dropdown-conference w-dropdown-link">poster/demo</a><a
+                                href="/cloudcom2023/registration-fee"
+                                class="dropdown-conference w-dropdown-link">registration fee</a><a
+                                href="/cloudcom2023/committees"
+                                class="dropdown-conference w-dropdown-link">committee</a><a
+                                href="/cloudcom2023/pc-members" class="dropdown-conference w-dropdown-link">PC
+                                Member</a><a href="/cloudcom2023/program"
+                                class="dropdown-conference w-dropdown-link">program</a><a
+                                href="/cloudcom2023/keynote-session" class="dropdown-conference w-dropdown-link">keynote
+                                sessions</a></nav>
+                    </div>
+                    <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
+                        <div class="dropdown-button w-dropdown-toggle">
+                            <div class="w-icon-dropdown-toggle"></div>
+                            <div class="text-block-8">Local <br>information</div>
                         </div>
-                        <div data-hover="true" data-delay="0" class="sub-heading-menu w-dropdown">
-                            <div class="dropdown-button w-dropdown-toggle">
-                                <div class="w-icon-dropdown-toggle"></div>
-                                <div class="text-block-8">Local <br>information</div>
-                            </div>
-                            <nav class="w-dropdown-list"><a href="/local-information/venue"
-                                    class="dropdown-conference w-dropdown-link">Venue</a><a href="/local-information/visa"
-                                    class="dropdown-conference w-dropdown-link">visa</a><a
-                                    href="/local-information/accommodation"
-                                    class="dropdown-conference w-dropdown-link">accommodation</a></nav>
-                        </div><a href="https://submit.jotform.com/222778335015052"
-                            class="heading-menu w-button">register</a><a href="/call-for-participation"
-                            class="heading-menu w-button">call for Participation</a>
-                    </nav>
+                        <nav class="w-dropdown-list"><a href="/local-information/venue"
+                                class="dropdown-conference w-dropdown-link">Venue</a><a href="/local-information/visa"
+                                class="dropdown-conference w-dropdown-link">visa</a><a
+                                href="/local-information/accommodation"
+                                class="dropdown-conference w-dropdown-link">accommodation</a></nav>
+                    </div><a href="https://submit.jotform.com/222778335015052"
+                        class="heading-menu w-button">register</a><a href="/call-for-participation"
+                        class="heading-menu w-button">call for Participation</a>
+                </nav>
             </div>
         </div>
     </div>
@@ -91,7 +89,7 @@
             <div class="slide-info">
                 <h1 class="heading-5"><span><sub>the 14th ieee international conference on Cloud Computing Technology
                             and Science</sub></span><strong>‍</strong></h1>
-                <p class="paragraph-6"><strong><sub>Napoli, Italy<br><br>  Avaiable Soon..</sub></strong><br></p><a
+                <p class="paragraph-6"><strong><sub>Napoli, Italy<br><br> Avaiable Soon..</sub></strong><br></p><a
                     href="https://submit.jotform.com/222778335015052" class="slide-button w-button">Register</a>
             </div>
             <div class="slide-info">
@@ -111,9 +109,7 @@
     <div class="head-welcome wf-section">
         <div class="container-3 w-container">
             <div class="greeting">
-                <div class="head-welcome-image"><img
-                        src="images/vesuvio.jpeg" loading="lazy"
-                        width="401"
+                <div class="head-welcome-image"><img src="images/vesuvio.jpeg" loading="lazy" width="401"
                         sizes="(max-width: 767px) 100vw, (max-width: 991px) 729.9962768554688px, 400.9925231933594px"
                         srcset="images/vesuvio.jpeg 500w, images/vesuvio.jpeg 800w, images/vesuvio.jpeg 1080w, images/vesuvio.jpeg 1400w"
                         alt class="image-2"></div>
@@ -167,16 +163,14 @@
             <div class="w-row">
                 <div class="column-17 w-col w-col-6"><a href="https://unicampania.it/"
                         class="home---sponsor-logo-link w-inline-block"><img
-                            src="images/vanvitelli_logo_no_backgroud.png"
-                            loading="lazy" width="196" sizes="184px" 
+                            src="images/vanvitelli_logo_no_backgroud.png" loading="lazy" width="196" sizes="184px"
                             srcset="images/vanvitelli_logo_no_backgroud.png 500w, images/vanvitelli_logo_no_backgroud.png 689w"
                             alt="Università della Campania Luigi Vanvitelli" class="home---sponsor-logo"></a></div>
                 <div class="column-18 w-col w-col-6"><a href="http://www.cerict.it/it/"
-                        class="home---sponsor-logo-link w-inline-block"><img
-                            src="images/CeRICT_logo.png" loading="lazy" width="221"
-                            sizes="(max-width: 479px) 54vw, (max-width: 767px) 38vw, 152.4962615966797px"
-                            alt="Centro Regionale Information Communication Technology"
-                            alt class="home---sponsor-logo"></a></div>
+                        class="home---sponsor-logo-link w-inline-block"><img src="images/CeRICT_logo.png" loading="lazy"
+                            width="221" sizes="(max-width: 479px) 54vw, (max-width: 767px) 38vw, 152.4962615966797px"
+                            alt="Centro Regionale Information Communication Technology" alt
+                            class="home---sponsor-logo"></a></div>
             </div>
         </div>
     </div>
@@ -221,7 +215,7 @@
                                 <h1 class="key-date-detail">Paper submission deadline</h1>
                             </div>
                             <div class="key-date-list w-col w-col-6">
-                                <h1 class="key-date-detail">August 31, 2022 
+                                <h1 class="key-date-detail">August 31, 2022
                                     <!--span class="uppercase-gray">(UPDATED)</span-->
                                 </h1>
                             </div>
@@ -233,9 +227,9 @@
                                 <h1 class="key-date-detail">Author notification</h1>
                             </div>
                             <div class="key-date-list w-col w-col-6">
-                                <h1 class="key-date-detail">October 10, 2022 
+                                <h1 class="key-date-detail">October 10, 2022
                                     <!--span class="uppercase-gray">(UPDATED)</span-->
-                                    </h1>
+                                </h1>
                             </div>
                         </div>
                     </li>
@@ -245,7 +239,7 @@
                                 <h1 class="key-date-detail">Camera-ready manuscript</h1>
                             </div>
                             <div class="key-date-list w-col w-col-6">
-                                <h1 class="key-date-detail">November 3, 2023 
+                                <h1 class="key-date-detail">November 3, 2023
                                     <!--span class="uppercase-gray">(UPDATED)</span-->
                                 </h1>
                             </div>
@@ -257,7 +251,7 @@
                                 <h1 class="key-date-detail">Author registration</h1>
                             </div>
                             <div class="key-date-list w-col w-col-6">
-                                <h1 class="key-date-detail">November 1, 2022 
+                                <h1 class="key-date-detail">November 1, 2022
                                     <!-- span class="uppercase-gray">(UPDATED)</span-->
                                 </h1>
                             </div>
