@@ -105,16 +105,17 @@
           <div class="committee-info">
             <h1 class="heading-3">IEEE&nbsp;CloudCom 2022 Organizing Committee</h1>
             <div class="committee-column w-row">
-              <div class="w-col w-col-3">
+                <br>
+              <!--<div class="w-col w-col-3">
                 <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66591f-f7fcff37" class="committee-list">Chairs:</p>
               </div>
-            <div class="committee-column w-row">
+            <div class="committee-column w-row">-->
 
 <!--<div class="w-col w-col-3">
                 <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66592e-f7fcff37" class="committee-list">Chairs:</p>
               </div>-->
-              <div class="committee-div-block w-col w-col-9">
-                <div class="committee-div-block">
+              <div class="committee-div-block w-col w-col-12">
+                <div  class="committee-div-block">
                   <div class="collection-of-committee w-dyn-list">
                     <div role="list" class="w-dyn-items w-row">
                       <div role="listitem" class="w-dyn-item w-col w-col-6"><img
@@ -122,19 +123,49 @@
                             loading="lazy" alt="" class="committee-image">
                           <p class="name-of-committee">Massimiliano Rak</p>
                           <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
+                          <p class="role"><b>Chair</b></p>
                       </div>
-                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img
+                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
                           src="./images/committee/valentina.jpg"
                           loading="lazy" alt="" class="committee-image">
                         <p class="name-of-committee">Valentina Casola</p>
                         <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
+                        <p class="role"><b>Chair</b></p>
                       </div>
+                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                        src="./images/committee/de_benedictis.jpg"
+                        loading="lazy" alt="" class="committee-image">
+                      <p class="name-of-committee">Alessandra De Benedictis</p>
+                      <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
+                      <p class="role"><b>Technical Program Committee Co-Chair</b></p>
+                    </div>
+                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                        src="./images/committee/umberto.jpeg"
+                        loading="lazy" alt="" class="committee-image">
+                      <p class="name-of-committee">Umberto Villano</p>
+                      <p class="affiliation-of-committee">University of Sannio, Italy</p>
+                      <p class="role"><b>Technical Program Committee Co-Chair</b></p>
+                    </div>
+                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                        src="./images/committee/granata.png"
+                        loading="lazy" alt="" class="committee-image">
+                      <p class="name-of-committee">Daniele Granata</p>
+                      <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
+                      <p class="role"><b>Local Arrangement Chair</b></p>
+                    </div>
+                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                        src="./images/committee/anonimo.jpg"
+                        loading="lazy" alt="" class="committee-image">
+                      <p class="name-of-committee">Giacomo Di Guida</p>
+                      <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
+                      <p class="role"><b>Local Arrangement Chair</b></p>
+                    </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="committee-column w-row">
+            <!--<div class="committee-column w-row">
               <div class="w-col w-col-3">
                 <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66593d-f7fcff37" class="committee-list">Technical Program
                   Committee Co-Chair:</p>
@@ -157,7 +188,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div>-->
             <!--<div class="committee-column w-row">
               <div class="w-col w-col-3">
                 <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66594b-f7fcff37" class="committee-list">Technical Program
@@ -203,7 +234,7 @@ Giacomo Di Guida, [09/01/23 17:00]
                 </div>
               </div>
             </div>-->
-            <div class="committee-column w-row">
+            <!--<div class="committee-column w-row">
               <div class="w-col w-col-3">
                 <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66593d-f7fcff37" class="committee-list">Local Arrangement Chair:
                 </p>
@@ -227,6 +258,7 @@ Giacomo Di Guida, [09/01/23 17:00]
                 </div>
               </div>
             </div>
+            -->
 
 
             </div>

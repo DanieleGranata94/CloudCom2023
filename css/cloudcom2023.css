@@ -43,6 +43,7 @@
   align-items: center;
 }
 
+
 .utility-page-content {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1281,9 +1282,10 @@
 }
 
 .committee-image {
-  width: auto;
   height: 250px;
   max-height: none;
+  display: block;
+  width: 60%;
 }
 
 .text-span {
@@ -2754,6 +2756,7 @@
   .home---sponsor-logo-block {
     text-align: center;
   }
+
 
   .home---sponsor-logo-link {
     width: 200px;
