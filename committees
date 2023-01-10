@@ -118,47 +118,53 @@
                 <div  class="committee-div-block">
                   <div class="collection-of-committee w-dyn-list">
                     <div role="list" class="w-dyn-items w-row">
-                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img
+                      <div role="listitem" class="w-dyn-item w-col w-col-6">
+                      <p class="role"><b>General and Program Co-Chair</b></p>
+                      <img
                             src="./images/committee/rak.jpeg"
                             loading="lazy" alt="" class="committee-image">
                           <p class="name-of-committee">Massimiliano Rak</p>
                           <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
-                          <p class="role"><b>Chair</b></p>
                       </div>
-                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                      <div role="listitem" class="w-dyn-item w-col w-col-6">
+                      <p class="role"><b>Co-Chair</b></p>
+                      <img
                           src="./images/committee/valentina.jpg"
                           loading="lazy" alt="" class="committee-image">
                         <p class="name-of-committee">Valentina Casola</p>
                         <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
-                        <p class="role"><b>Chair</b></p>
                       </div>
-                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                      <div role="listitem" class="w-dyn-item w-col w-col-6">
+                      <p class="role"><b>Technical Program Committee Co-Chair</b></p>
+                      <img
                         src="./images/committee/de_benedictis.jpg"
                         loading="lazy" alt="" class="committee-image">
                       <p class="name-of-committee">Alessandra De Benedictis</p>
                       <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
-                      <p class="role"><b>Technical Program Committee Co-Chair</b></p>
                     </div>
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                    <div role="listitem" class="w-dyn-item w-col w-col-6">
+                    <p class="role"><b>Technical Program Committee Co-Chair</b></p>
+                    <img
                         src="./images/committee/umberto.jpeg"
                         loading="lazy" alt="" class="committee-image">
                       <p class="name-of-committee">Umberto Villano</p>
                       <p class="affiliation-of-committee">University of Sannio, Italy</p>
-                      <p class="role"><b>Technical Program Committee Co-Chair</b></p>
                     </div>
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                    <div role="listitem" class="w-dyn-item w-col w-col-6">
+                    <p class="role"><b>Local Arrangement Chair</b></p>
+                    <img
                         src="./images/committee/granata.png"
                         loading="lazy" alt="" class="committee-image">
                       <p class="name-of-committee">Daniele Granata</p>
                       <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
-                      <p class="role"><b>Local Arrangement Chair</b></p>
                     </div>
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img 
+                    <div role="listitem" class="w-dyn-item w-col w-col-6">
+                    <p class="role"><b>Local Arrangement Member</b></p>
+                    <img
                         src="./images/committee/anonimo.jpg"
                         loading="lazy" alt="" class="committee-image">
                       <p class="name-of-committee">Giacomo Di Guida</p>
                       <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
-                      <p class="role"><b>Local Arrangement Chair</b></p>
                     </div>
                     </div>
                   </div>
@@ -212,7 +218,6 @@
             <!--<div class="committee-column w-row">
               <div class="w-col w-col-3">
 
-Giacomo Di Guida, [09/01/23 17:00]
 <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66595a-f7fcff37" class="committee-list">Publication Chair:</p>
               </div>
               <div class="w-col w-col-9">
