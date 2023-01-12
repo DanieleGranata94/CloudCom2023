@@ -40,9 +40,9 @@
         <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease"
             data-doc-height="1" role="banner" class="navbar-light w-nav">
             <div class="head-menu-bar w-container"><a href="/" class="navbar-light-brand-2 w-nav-brand"><img
-                        src="https://assets.website-files.com/620dfd981d030cade8307bdd/637c98b941002a1889d0f731_CLOUDCOM-2022-wed.png"
+                        src="/images/logocloudcom23_v4.png"
                         loading="lazy" width="224" sizes="(max-width: 479px) 66vw, 223.99253845214844px"
-                        srcset="https://assets.website-files.com/620dfd981d030cade8307bdd/637c98b941002a1889d0f731_CLOUDCOM-2022-wed-p-500.png 500w, https://assets.website-files.com/620dfd981d030cade8307bdd/637c98b941002a1889d0f731_CLOUDCOM-2022-wed-p-800.png 800w, https://assets.website-files.com/620dfd981d030cade8307bdd/637c98b941002a1889d0f731_CLOUDCOM-2022-wed-p-1080.png 1080w, https://assets.website-files.com/620dfd981d030cade8307bdd/637c98b941002a1889d0f731_CLOUDCOM-2022-wed.png 1111w"
+                        srcset="/images/logocloudcom23_v4.png 500w, /images/logocloudcom23_v4.png 800w, /images/logocloudcom23_v4.png 1080w, /images/logocloudcom23_v4.png 1111w"
                         alt="" class="image-10" /></a>
                 <div class="menu-button w-nav-button">
                     <div class="navbar-light-icon w-icon-nav-menu"></div>
@@ -77,7 +77,7 @@
                                 href="/local-information/accommodation"
                                 class="dropdown-conference w-dropdown-link">accommodation</a></nav>
                     </div><a href="https://submit.jotform.com/222778335015052"
-                        class="heading-menu w-button">register</a><a href="/call-for-participation" aria-current="page"
+                        class="heading-menu w-button">register</a><a href="cloudcom2023/call-for-participation" aria-current="page"
                         class="heading-menu w-button w--current">call for Participation</a>
                 </nav>
             </div>
@@ -116,7 +116,7 @@
                         conference.<br />Please note that ALL AUTHORS OF ACCEPTED POSTERS AND DEMOS MUST BE REGISTERED
                         WITH A FULL AUTHOR REGISTRATION (Registration fee: 9,900 THB). Each regular registration only
                         covers one poster or demo.</p><a id="CFPButton"
-                        href="https://easychair.org/conferences/?conf=cloudcom2022" class="button-4 w-button">Submit
+                        href="https://easychair.org/conferences/?conf=cloudcom2023" class="button-4 w-button">Submit
                         Poster and Demo</a><a id="CFPButton" href="https://submit.jotform.com/222778335015052"
                         class="button-4 w-button">Register</a>
                 </div>
@@ -140,7 +140,7 @@
                     <p href="">Submitted papers and presentation must not substantially overlap papers that have been
                         published or that are simultaneously submitted to a journal or a conference with proceedings.
                         Authors must submit their papers by the deadline indicated below, using the <a
-                            href="https://easychair.org/conferences/?conf=cloudcom2022">EasyChair submission
+                            href="https://easychair.org/conferences/?conf=cloudcom2023">EasyChair submission
                             system</a>.<br /><br />For further inquiry, please contact <a
                             href="mailto:wanida@kku.ac.th?subject=%5BAI%20University%20Network%20Symposium%5D">Prof.
                             Wanida Kanarkard</a> </p><a href="https://form.jotform.com/223213603119444"
@@ -149,51 +149,8 @@
             </div>
         </div>
     </div>
-    <div class="footer-wrapper wf-section">
-        <div class="wrap">
-            <div class="w-layout-grid footer-2">
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750b6-589750b3" class="text-block-6"><strong
-                        class="company-text">IEEE CLOUDCOM 2022</strong></div>
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750b9-589750b3"
-                    class="label cc-footer-section-headline w-inline-block">Menu</div>
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750bb-589750b3" class="footer-grid-column"><a href="/"
-                        class="footer-link">Home</a><a href="/committees" class="footer-link">Committees</a><a href="#"
-                        class="footer-link">Registration</a></div>
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750c4-589750b3"
-                    class="label cc-footer-section-headline w-inline-block">Useful links</div>
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750c6-589750b3" class="footer-grid-column"><a
-                        href="http://www.cloudcom.org/" target="_blank" class="footer-link">Cloud Computing
-                        Association</a><a href="https://www.computer.org/" target="_blank" class="footer-link">IEEE
-                        Computer Society</a><a href="https://www.cmkl.ac.th/" target="_blank" class="footer-link">CMKL
-                        University</a><a href="https://www.cmu.edu/" class="footer-link">Carnegie Mellon University</a>
-                </div>
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750d3-589750b3"
-                    class="label cc-footer-section-headline w-inline-block">Contact Us</div>
-                <div id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750d5-589750b3" class="footer-grid-column">
-                    <div class="w-layout-grid grid-16"><img
-                            src="https://assets.website-files.com/620dfd981d030cade8307bdd/621c90d8412b631e2821a3e1_map.png"
-                            loading="lazy" width="20" id="w-node-_19925635-cfe5-a435-a9a5-20ea7709f8f4-589750b3"
-                            srcset="https://assets.website-files.com/620dfd981d030cade8307bdd/621c90d8412b631e2821a3e1_map-p-500.png 500w, https://assets.website-files.com/620dfd981d030cade8307bdd/621c90d8412b631e2821a3e1_map.png 512w"
-                            sizes="(max-width: 991px) 19.992536544799805px, (max-width: 1279px) 2vw, (max-width: 1439px) 19.992536544799805px, 1vw"
-                            alt="" class="image-5" /><a
-                            href="https://www.google.com/maps/place/CMKL+University/@13.7275905,100.7761466,17z/data=!3m1!4b1!4m5!3m4!1s0x311d6649eaf5ba29:0x9f3278fb723a0cd9!8m2!3d13.7275905!4d100.7783353"
-                            id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750d6-589750b3" target="_blank"
-                            class="footer-cmkl-address">CMKL University<br />1 Soi Chalongkrung 1, Lat Krabang, Lat
-                            Krabang, <br />Bangkok, Thailand</a><img
-                            src="https://assets.website-files.com/620dfd981d030cade8307bdd/621c90d721d7d13753e8e1cc_telephone-handle-silhouette.png"
-                            loading="lazy" width="20" id="w-node-c8a93084-2a23-8ec3-e003-85c556e3a369-589750b3" alt=""
-                            class="image-6" /><a href="tel:+66658785000"
-                            id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750da-589750b3" class="footer-link">(+66)
-                            65-878-5000</a><img
-                            src="https://assets.website-files.com/620dfd981d030cade8307bdd/621c90d8d20b843716f53190_email%20(1).png"
-                            loading="lazy" width="20" id="w-node-f2ec9f86-eab1-cce2-d6a6-40048006c09f-589750b3" alt=""
-                            class="image-7" /><a href="mailto:cloudcom@cmkl.ac.th"
-                            id="w-node-_9c8bc83d-20d4-55e9-2761-f705589750dc-589750b3"
-                            class="footer-link">cloudcom@cmkl.ac.th</a></div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
+  
     <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=620dfd981d030cade8307bdd"
         type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
         crossorigin="anonymous"></script>
