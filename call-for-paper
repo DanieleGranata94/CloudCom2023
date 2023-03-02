@@ -74,21 +74,21 @@
                     fast-track publication in the IEEE Transactions on Cloud Computing or invited to be included within
                     a number of special issues in prestigious international journals.<br><br><em>The PDF file of Call
                         For Papers (CFP) can be downloaded </em><a
-                        href="https://drive.google.com/file/d/1VVdpk4KSLE6q0QDNcXIMewZAp_6pp0qM/view?usp=sharing"><em>here</em></a><em>.</em>
+                        href="./CFP_CLOUDCOM2023.pdf"><em>here</em></a><em>.</em>
                 </p>
                 <h2>Important Dates</h2>
                 <ul role="list">
-                    <li>Paper Submission Deadline: &nbsp;TBD <span
-                            class="uppercase-gray small">(UPDATED)</span></li>
-                    <li>Author Notification:&nbsp;TBD <span class="uppercase-gray small">(UPDATED)</span>
+                    <li>Paper Submission Deadline: &nbsp;1 July 2023
+                    <!--<span class="uppercase-gray small">(UPDATED)</span>--></li>
+                    <li>Author Notification:&nbsp;1 October 2023 <!--<span class="uppercase-gray small">(UPDATED)</span>-->
                     </li>
-                    <li>Camera Ready Manuscript:&nbsp;TBD <span
-                            class="uppercase-gray small">(UPDATED)</span></li>
+                    <li>Camera Ready Manuscript:&nbsp;1 November 2023 <!--<span
+                            class="uppercase-gray small">(UPDATED)</span>--></li>
                     <li>Author Registration:TBD <span class="uppercase-gray small">(UPDATED)</span></li>
                 </ul><a id="CFPButton" href="https://easychair.org/my/conference?conf=cloudcom2023"
                     class="button-4 w-button">Submit Papers</a>
             </div>
-            <div class="div-block-18">
+            <!--<div class="div-block-18">
                 <h1>Call for Workshops</h1>
                 <p>IEEE CloudCom 2023 is soliciting proposals for full-day / half-day workshops to be held in
                     conjunction with IEEE CloudCom 2023 in Naples from December 4 - December 6, 2023. We invite you to
@@ -113,7 +113,7 @@
                 <p href="">Please email your workshop proposal to the conference secretary by <strong>TBD</strong><em></em></p><a id="CFPButton"
                     href="mailto:cloudcom@cmkl.ac.th?subject=IEEE%20CloudCom%202022%20Workshop%20Proposal"
                     class="button-4 w-button">Submit Workshop Proposals</a>
-            </div>
+            </div>-->
         </div>
     </div>
 
