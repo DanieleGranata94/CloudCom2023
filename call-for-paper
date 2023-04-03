@@ -39,11 +39,11 @@
     <div id="nav_bar"></div>
 
 
-    <div class="body wf-section">
+    <!--<div class="body wf-section">
         <div class="container-8 w-container">
             <h1 class="heading-15">Submissions</h1>
         </div>
-    </div>
+    </div>-->
     <div class="call-for-paper-description wf-section">
         <div class="container-7 w-container">
             <div class="div-block-18">
