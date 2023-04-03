@@ -93,7 +93,7 @@
             </div>
             <div class="div-block-18">
                 <h1>Topic of Interest</h1>
-                <p>CLOUD ARCHITECTURE</p>
+                <p><b>CLOUD ARCHITECTURE</b></p>
                 <ul role="list">
                     <li>Virtualization technologies and enablers, Virtual machines,Containers</li>
                     <li>Unikernels and Microservices and cloud services delivery models</li>
@@ -108,7 +108,7 @@
                     <li>Modeling &amp; performance evaluation</li>
                 </ul>
 
-                <p>SECURITY, PRIVACY AND TRUST</p>
+                <p><b>SECURITY, PRIVACY AND TRUST</b></p>
                 <ul role="list">
                     <li>VAccountability &amp; auditing</li>
                     <li>VBlockchain Cloud services</li>
@@ -127,7 +127,7 @@
                     <li>Security SLAs</li>
                 </ul>
 
-                <p>CLOUD SERVICES AND APPLICATIONS</p>
+                <p><b>CLOUD SERVICES AND APPLICATIONS</b></p>
                 <ul role="list">
                 <li> Cloud services models, frameworks, Cloud protocols</li>
                 <li> Cloud programming models, Cloud Application development</li>
@@ -145,7 +145,7 @@
                 <li> Business models &amp; economics of Cloud services</li>
                 </ul>
 
-                <p>EDGE COMPUTING, IOT AND DISTRIBUTED CLOUD</p>
+                <p><b>EDGE COMPUTING, IOT AND DISTRIBUTED CLOUD</b></p>
                 <ul role="list">
                     <li>Cloudlet-enabled applications, Software infrastructure for cloudlets,
                         Distributed Cloud infrastructure</li>
