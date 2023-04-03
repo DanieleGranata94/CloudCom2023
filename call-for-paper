@@ -37,8 +37,6 @@
 
 <body class="body">
     <div id="nav_bar"></div>
-
-
     <!--<div class="body wf-section">
         <div class="container-8 w-container">
             <h1 class="heading-15">Submissions</h1>
@@ -87,7 +85,7 @@
                     </li>
                     <li>Camera Ready Manuscript:&nbsp;1 November 2023 <!--<span
                             class="uppercase-gray small">(UPDATED)</span>--></li>
-                    <li>Author Registration:TBD <span class="uppercase-gray small">(UPDATED)</span></li>
+                    <li>Author Registration:TBD <!--<span class="uppercase-gray small">(UPDATED)</span>--></li>
                 </ul><a id="CFPButton" href="https://easychair.org/my/conference?conf=cloudcom2023"
                     class="button-4 w-button">Submit Papers</a>
             </div>
