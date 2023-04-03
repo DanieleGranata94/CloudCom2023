@@ -48,9 +48,12 @@
         <div class="container-7 w-container">
             <div class="div-block-18">
                 <h1>Call for Papers</h1>
-                <p>Accepted and presented papers will be included into the conference proceedings. Distinguished papers
-                    presented at the conference, after further revision, will be published in special issues of selected
-                    journals.</p>
+                <p>IEEE CloudCom is the premier conference on Cloud Computing worldwide, attracting researchers, engineers, and students from the fields of cloud
+                computing, big data, systems architecture, service-oriented architecture, virtualization, security and privacy, high performance computing, always
+                with an emphasis on how to build cloud computing platforms with impact.
+                </p>
+                <p>The conference is co-sponsored by the Institute of Electrical and Electronics Engineers (IEEE), is steered by the Cloud Computing Association, and
+                draws on the excellence of its world-class Program Committee and its participants.</p>
                 <h2>Submission Guidelines</h2>
                 <p href="">Submitted papers must not substantially overlap papers that have been published or that are
                     simultaneously submitted to a journal or a conference with proceedings. Authors must submit their
@@ -88,6 +91,82 @@
                 </ul><a id="CFPButton" href="https://easychair.org/my/conference?conf=cloudcom2023"
                     class="button-4 w-button">Submit Papers</a>
             </div>
+            <div class="div-block-18">
+                <h1>Topic of Interest</h1>
+                <p>CLOUD ARCHITECTURE</p>
+                <ul role="list">
+                    <li>Virtualization technologies and enablers, Virtual machines,Containers</li>
+                    <li>Unikernels and Microservices and cloud services delivery models</li>
+                    <li>Networking technologies</li>
+                    <li>Cloud system design with FPGAs, GPUs, APUs</li>
+                    <li>Storage and virtualization, Storage &amp; file systems</li>
+                    <li>Scalability, performance, and Cloud elasticity</li>
+                    <li>Resource provisioning, monitoring, management &amp; maintenance Cloud capacity planning</li>
+                    <li>Operational, economic &amp; business models</li>
+                    <li>Energy efficiency, Green data centers</li>
+                    <li>Resilience, fault-tolerance, disaster recovery</li>
+                    <li>Modeling &amp; performance evaluation</li>
+                </ul>
+
+                <p>SECURITY, PRIVACY AND TRUST</p>
+                <ul role="list">
+                    <li>VAccountability &amp; auditing</li>
+                    <li>VBlockchain Cloud services</li>
+                    <li>Vryptography in the Cloud, Cryptographic protocols against internal
+                    attacks in the Cloud</li>
+                    <li>VHypervisor security</li>
+                    <li>VAuthentication, Authorization, Identity management, Security as a
+                    service, Secure, interoperable identity management</li>
+                    <li>Trust models for Cloud services, Trust &amp; credential management,</li>
+                    <li>Security risk management in Cloud computing environments</li>
+                    <li>Privacy protection in Cloud platforms, Privacy policy framework in
+                    the Cloud Privacy-preserving data mining in the Cloud, Information
+                    sharing and data protection in the Cloud, Prevention of data loss or
+                    leakage</li>
+                    <li>Energy, cost, efficiency of security in the Cloud</li>
+                    <li>Security SLAs</li>
+                </ul>
+
+                <p>CLOUD SERVICES AND APPLICATIONS</p>
+                <ul role="list">
+                <li> Cloud services models, frameworks, Cloud protocols</li>
+                <li> Cloud programming models, Cloud Application development</li>
+                methodologies and tools, debugging tools, benchmarks, and
+                <li> Cloud services reference models &amp; standardization</li>
+                <li> XaaS (everything as a service including laaS, PaaS, and SaaS),
+                Services for compute-intensive applications, for emerging
+                technologies</li>
+                <li> Service deployment and orchestration in the Cloud,</li>
+                <li> Data management applications &amp; services, Data-provisioning
+                services, Systems interactions and machine learning,</li>
+                <li> Fault-tolerance &amp; availability of cloud services and applications ,
+                Mining and analytics, Traffic prediction models and auto-scaling for
+                Cloud services</li>
+                <li> Business models &amp; economics of Cloud services</li>
+                </ul>
+
+                <p>EDGE COMPUTING, IOT AND DISTRIBUTED CLOUD</p>
+                <ul role="list">
+                    <li>Cloudlet-enabled applications, Software infrastructure for cloudlets,
+                        Distributed Cloud infrastructure</li>
+                    <li>Foundations and principles of distributed Cloud computing</li>
+                    <li>Architectural models, prototype implementations and applications,
+                    inter-cloud architecture models</li>
+                    <li>Cloud brokers and coordination across multiple resource managers</li>
+                    <li>Dynamic resource, service and context management in edge
+                    computing</li>
+                    <li>Fog computing</li>
+                    <li>loT cloud architectures & models</li>
+                    <li>Cloud-based context-aware loT</li>
+                    <li>Economics and pricing</li>
+                    <li>Existing deployments and measurements of public, private, hybrid,
+                    and federated environments</li>
+                </ul>
+
+            </div>
+
+
+
             <!--<div class="div-block-18">
                 <h1>Call for Workshops</h1>
                 <p>IEEE CloudCom 2023 is soliciting proposals for full-day / half-day workshops to be held in
