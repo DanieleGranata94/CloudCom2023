@@ -122,7 +122,7 @@
                       <p class="role"><b>General and Program Co-Chair</b></p>
                       <div class="committee-images">
                       <img
-                            src="./images/committee/rak.jpeg"
+                            src="./images/committee/rak.jpg"
                             loading="lazy" alt="" class="committee-image">
                       </div>
                           <p class="name-of-committee">Massimiliano Rak</p>
@@ -260,7 +260,7 @@
                 <div class="collection-of-committee w-dyn-list">
                   <div role="list" class="w-dyn-items w-row">
                     <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                          src="./images/committee/granata.png"
+                          src="./images/committee/granata.jpg"
                           loading="lazy" alt="" class="committee-image">
                         <p class="name-of-committee">Daniele Granata</p>
                         <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
