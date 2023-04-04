@@ -5920,6 +5920,6 @@
   align-items: center;
   display: flex;
   justify-content: center;
-  height: 450px;
-  width: 450px;"
+  height: auto;
+  width: auto;
 }
