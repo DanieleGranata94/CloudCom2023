@@ -1282,7 +1282,8 @@
 }
 
 .committee-image {
-  height: 250px;
+  height: auto;
+  max-width: 100%;
   max-height: none;
   display: block;
   width: 60%;
