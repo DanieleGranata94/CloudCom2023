@@ -120,25 +120,31 @@
                     <div role="list" class="w-dyn-items w-row">
                       <div role="listitem" class="w-dyn-item w-col w-col-6">
                       <p class="role"><b>General and Program Co-Chair</b></p>
+                      <div class="committee-images">
                       <img
                             src="./images/committee/rak.jpeg"
                             loading="lazy" alt="" class="committee-image">
+                      </div>
                           <p class="name-of-committee">Massimiliano Rak</p>
                           <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
                       </div>
                       <div role="listitem" class="w-dyn-item w-col w-col-6">
                       <p class="role"><b>Co-Chair</b></p>
+                      <div class="committee-images">
                       <img
                           src="./images/committee/valentina.jpg"
                           loading="lazy" alt="" class="committee-image">
+                      </div>
                         <p class="name-of-committee">Valentina Casola</p>
                         <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
                       </div>
                       <div role="listitem" class="w-dyn-item w-col w-col-6">
                       <p class="role"><b>Technical Program Committee Co-Chair</b></p>
+                      <div class="committee-images">
                       <img
                         src="./images/committee/de_benedictis.jpg"
                         loading="lazy" alt="" class="committee-image">
+                      </div>
                       <p class="name-of-committee">Alessandra De Benedictis</p>
                       <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
                     </div>

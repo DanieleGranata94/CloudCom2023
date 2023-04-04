@@ -5915,3 +5915,11 @@
   font-style: italic;
   font-display: swap;
 }
+.committee-images
+{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 250px;
+  width: 250px;"
+}
