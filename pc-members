@@ -55,6 +55,8 @@
                 <div class="w-col w-col-5">
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"><b>PC member</b></p></div>
+                            <br>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jing Gong</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Aaron Call</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">William Caban</p></div>
@@ -136,7 +138,8 @@
                 <div class="w-col w-col-7">
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
-
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10"><b>Institution</b></p></div>
+                            <br>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">KTH Royal Institute of Technology</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Barcelona Supercomputing Center</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Red Hat</p></div>
