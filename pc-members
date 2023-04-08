@@ -44,6 +44,8 @@
 <div id="nav_bar"></div>
 <div class="committee-info">
 <h1 class="heading-3">IEEE&nbsp;CloudCom Technical Program Committee</h1>
+<br>
+
 <div class="committee-column w-row">
     <div class="column-14 w-col w-col-3"><p id="w-node-c11d1c16-8bdb-e7b8-7701-c88f2d92eaea-04fcd97b"
                                             class="committee-list"><strong class="bold-text-7"></strong></p></div>
@@ -53,7 +55,6 @@
                 <div class="w-col w-col-5">
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Daniele Granata</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jing Gong</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Aaron Call</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">William Caban</p></div>
@@ -62,7 +63,6 @@
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Antonio Pecchia</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">In Kee Kim</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrea Pinna</p></div>
-<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alessandra De Benedictis</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ronald Jabangwe</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Mário Antunes</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Torben Worm</p></div>
@@ -71,9 +71,7 @@
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Carson Leung</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Amir Nassereldine</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ekasit Kijsipongse</p></div>
-<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Massimiliano Rak</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Florin Pop</p></div>
-<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Valentina Casola</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Juan J. Durillo</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Martin Gilje Jaatun</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Nikos Parlavantzas</p></div>
@@ -139,7 +137,6 @@
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
 
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Campania Luigi Vanvitelli</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">KTH Royal Institute of Technology</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Barcelona Supercomputing Center</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Red Hat</p></div>
@@ -148,7 +145,6 @@
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Università degli Studi del Sannio</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Georgia</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Università di Cagliari</p></div>
-<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Naples Federico II</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">inriver AB</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Polytechnic of Leiria - ESTG and INESCTEC, CRACS, University of Porto</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Southern Denmark</p></div>
@@ -157,9 +153,7 @@
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Manitoba</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University at Buffalo</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">NECTEC</p></div>
-<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Campania Luigi Vanvitelli</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University Politehnica of Bucharest, Romania / ICI Bucharest, Romania</p></div>
-<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Naples Federico II</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Leibniz Supercomputing Centre (LRZ), Munich</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">SINTEF Digital</p></div>
 <div role="listitem" class="w-dyn-item"><p class="paragraph-10">INSA Rennes</p></div>
