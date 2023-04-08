@@ -53,193 +53,177 @@
                 <div class="w-col w-col-5">
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Martin Jaatun</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Guang Yang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Aaron Call</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Chen Wang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ziming Zhao</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Florin Pop</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Luiz F. Bittencourt</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Michele Mastroianni</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Chathura Sarathchandra</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrea Pinna</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Che-Rung Lee</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Luís Veiga</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Mário Antunes</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ronald Jabangwe</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Torben Worm</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Dieter Gollmann</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Nikos Parlavantzas</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Senbo Fu</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Adrien Lèbre</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Long Wang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Amir Nassereldine</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ekasit Kijsipongse</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">William Caban</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ricardo Noriega</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Thierry Coupaye</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Yuhong Li</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Martin Gilje Jaatun</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Tom Hacker</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Kaiwen Zhang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Josep Lluis Berral-García</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Barbara Guidi</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrea De Salve</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Georgios L. Stavrinides</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Albert Levi</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Yuqiong Sun</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alexandru Costan</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Romain Rouvoy</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Hung-Min Sun</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Tamas Lukovszki</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Bahman Javadi</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Xiaokuan Zhang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Posco Fung Po Tso</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">In Kee Kim</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Felix Freitag</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Daniel Grosu</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Juan J. Durillo</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Fabrizio Marozzo</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Emanuele Carlini</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Filipe Araujo</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alvaro Lopez Garcia</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Luca Oneto</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Pedro Furtado</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Kevin Qixiang Pang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jedrzej Musi</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Michele Colajanni</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Magnus Westerlund</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Frederic Desprez</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrei Tchernykh</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Dana Petcu</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Roberto Canonico</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Helen Karatza</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Carson Leung</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Laura Ricci</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Xingwei Wang</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Vincent Chimaobi
-                                Emeakaroha</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Yan Bai</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Haibing Lu</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jorge Roa</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jemal Abawajy</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Kurt Tutschku</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alessio Faccia</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Nicola Bena</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9">Daniele Granata</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jing Gong</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Aaron Call</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">William Caban</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alessio Faccia</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Tom Hacker</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Antonio Pecchia</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">In Kee Kim</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrea Pinna</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alessandra De Benedictis</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ronald Jabangwe</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Mário Antunes</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Torben Worm</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Michele Mastroianni</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Marta Catillo</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Carson Leung</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Amir Nassereldine</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ekasit Kijsipongse</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Massimiliano Rak</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Florin Pop</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Valentina Casola</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Juan J. Durillo</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Martin Gilje Jaatun</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Nikos Parlavantzas</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Schahram Dustdar</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Frederic Desprez</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Guang Yang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Magnus Westerlund</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Adrien Lèbre</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Felix Freitag</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ricardo Noriega</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Filipe Araujo</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Tamas Lukovszki</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jorge Roa</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Vincent Chimaobi Emeakaroha</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Emanuele Carlini</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Luís Veiga</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Che-Rung Lee</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Chen Wang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrea De Salve</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Huashan Yu</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alexandru Costan</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Luiz F. Bittencourt</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Barbara Guidi</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Pedro Furtado</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Luca Oneto</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jedrzej Musial</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Andrei Tchernykh</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Kevin Qixiang Pang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Ziming Zhao</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Xiaokuan Zhang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Daniel Grosu</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Hung-Min Sun</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Dana Petcu</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Yuhong Li</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Fabrizio Marozzo</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Haibing Lu</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Michele Colajanni</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Yuqiong Sun</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Kaiwen Zhang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Bahman Javadi</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Yan Bai</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Xingwei Wang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Dieter Gollmann</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Chathura Sarathchandra</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Posco Fung Po Tso</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Georgios L. Stavrinides</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Laura Ricci</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Helen Karatza</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Kurt Tutschku</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Thierry Coupaye</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Roberto Canonico</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Mario Südholt</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Nicola Bena</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Albert Levi</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Long Wang</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Jemal Abawajy</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Senbo Fu</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-9">Alvaro Lopez Garcia</p></div>
                         </div>
                     </div>
                 </div>
-                <!--<div class="w-col w-col-7">
+                <div class="w-col w-col-7">
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">
-                                SINTEF Digital</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">HVL</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Barcelona Supercomputing Center</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">IBM/p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University at Buffalo</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University Politehnica of Bucharest, Romania / ICI Bucharest, Romania</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Campinas</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Salerno</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">InterDigital International Labs (Europe)</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Università di Cagliari</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">National Tsing Hua University</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Universidade de Lisboa</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Polytechnic of Leiria - ESTG and INESCTEC, CRACS, University of Porto</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">inriver AB</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Southern Denmark</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Hamburg University of Technology</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">INSA Rennes	</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Peking University</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Carnegie Mellon University</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Inria / Ecole des Mines</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Tsinghua University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University at Buffalo</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">NECTEC/p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Red Hat</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Red Hat</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Orange Labs</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Illinois at Urbana and Champaign</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Purdue University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">École de technologie supérieure de Montréal	</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Department of Computer Science, University of Pisa</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">ISASI -CNR/p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Aristotle University of Thessaloniki</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Sabanci University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Facebook</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">INRIA</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">The Ohio State University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">National Tsing Hua University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Eötvös Loránd University, Budapest</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Western Sydney University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">The Ohio State University/p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Loughborough University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Georgia/p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Universitat Politècnica de Catalunya</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Wayne State University</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Leibniz Supercomputing Centre (LRZ), Munich	</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">DIMES, University of Calabria	</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">ISTI-CNR	</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Univ. of Coimbra</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">
-                                Vienna University of Technology	</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">INRIA</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">CICESE Research Center</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">West University of Timisoara</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Universita di Napoli Federico II</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Aristotle University of Thessaloniki</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Manitoba</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">dipartimento di informatica, Univ. di Pisa</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">College of Information Science and Engineering, Northeastern University	</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Munster Technological University</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Washington</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Santa Clara University</p></div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">UTN-FRSF-CONICET</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Deakin University</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">Blekinge Institute of Technology (BTH)</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">AUE</p>
-                            </div>
-                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Milan</p>
-                            </div>
+
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Campania Luigi Vanvitelli</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">KTH Royal Institute of Technology</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Barcelona Supercomputing Center</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Red Hat</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">AUE</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Purdue University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Università degli Studi del Sannio</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Georgia</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Università di Cagliari</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Naples Federico II</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">inriver AB</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Polytechnic of Leiria - ESTG and INESCTEC, CRACS, University of Porto</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Southern Denmark</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Salerno</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Università del Sannio</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Manitoba</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University at Buffalo</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">NECTEC</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Campania Luigi Vanvitelli</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University Politehnica of Bucharest, Romania / ICI Bucharest, Romania</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Naples Federico II</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Leibniz Supercomputing Centre (LRZ), Munich</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">SINTEF Digital</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">INSA Rennes</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Vienna University of Technology</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">INRIA</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">HVL</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Arcada University of Applied Science</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Inria  / Ecole des Mines</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Universitat Politècnica de Catalunya</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Red Hat</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Univ. of Coimbra</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Eötvös Loránd University, Budapest</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">UTN-FRSF-CONICET</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Munster Technological University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">ISTI-CNR</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Universidade de Lisboa</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">National Tsing Hua University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">IBM</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">ISASI -CNR</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Peking University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">INRIA</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Campinas</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Department of Computer Science, University of Pisa</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Univ. Coimbra / CISUC</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Genoa</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Poznan University of Technology</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">CICESE Research Center</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Confederation College</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University at Buffalo</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">The Ohio State University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Wayne State University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">National Tsing Hua University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">West University of Timisoara</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Illinois at Urbana and Champaign</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">DIMES, University of Calabria</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Santa Clara University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Bologna</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Facebook</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">École de technologie supérieure de Montréal</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Western Sydney University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Washington</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">College of Information Science and Engineering, Northeastern University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Hamburg University of Technology</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">InterDigital International Labs (Europe)</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Loughborough University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Aristotle University of Thessaloniki</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">dipartimento di informatica, Univ. di Pisa</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Aristotle University of Thessaloniki</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Blekinge Institute of Technology (BTH)</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Orange Labs</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Universita di Napoli Federico II</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">IMT Atlantique (Nantes)</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">University of Milan</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Sabanci University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Tsinghua University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Deakin University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">Carnegie Mellon University</p></div>
+<div role="listitem" class="w-dyn-item"><p class="paragraph-10">IFCA (CSIC-UC)</p></div>
+
 
 
                         </div>
                     </div>
-                </div>-->
+                </div>
             </div>
         </div>
     </div>
