@@ -193,7 +193,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="w-col w-col-7">
+                <!--<div class="w-col w-col-7">
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
                             <div role="listitem" class="w-dyn-item"><p class="paragraph-10">
@@ -409,7 +409,7 @@
 
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
