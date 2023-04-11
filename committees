@@ -125,7 +125,7 @@
                             src="./images/committee/rak.jpg"
                             loading="lazy" alt="" class="committee-image">
                       </div>
-                          <p class="name-of-committee">Massimiliano Rak</p>
+                          <p class="name-of-committee"><b>Massimiliano Rak</b></p>
                           <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
                       </div>
                       <div role="listitem" class="w-dyn-item w-col w-col-6">
@@ -135,7 +135,7 @@
                           src="./images/committee/valentina.jpg"
                           loading="lazy" alt="" class="committee-image">
                       </div>
-                        <p class="name-of-committee">Valentina Casola</p>
+                        <p class="name-of-committee"><b>Valentina Casola</b></p>
                         <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
                       </div>
                       <div role="listitem" class="w-dyn-item w-col w-col-6">
@@ -145,7 +145,7 @@
                         src="./images/committee/de_benedictis.jpg"
                         loading="lazy" alt="" class="committee-image">
                       </div>
-                      <p class="name-of-committee">Alessandra De Benedictis</p>
+                      <p class="name-of-committee"><b>Alessandra De Benedictis</b></p>
                       <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
                     </div>
                     <div role="listitem" class="w-dyn-item w-col w-col-6">
@@ -155,7 +155,7 @@
                         src="./images/committee/umberto.jpeg"
                         loading="lazy" alt="" class="committee-image">
                     </div>
-                      <p class="name-of-committee">Umberto Villano</p>
+                      <p class="name-of-committee"><b>Umberto Villano</b></p>
                       <p class="affiliation-of-committee">University of Sannio, Italy</p>
                     </div>
                     <br>
@@ -166,7 +166,7 @@
                         src="./images/committee/granata.jpg"
                         loading="lazy" alt="" class="committee-image">
                       </div>
-                      <p class="name-of-committee">Daniele Granata</p>
+                      <p class="name-of-committee"><b>Daniele Granata</b></p>
                       <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
                     </div>
                     <div role="listitem" class="w-dyn-item w-col w-col-6">
@@ -176,7 +176,7 @@
                         src="./images/committee/giacomo.jpg"
                         loading="lazy" alt="" class="committee-image">
                       </div>
-                      <p class="name-of-committee">Giacomo Di Guida</p>
+                      <p class="name-of-committee"><b>Giacomo Di Guida</b></p>
                       <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
                     </div>
                     </div>
