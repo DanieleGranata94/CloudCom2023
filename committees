@@ -162,7 +162,7 @@
                     <div role="listitem" class="w-dyn-item w-col w-col-6">
                     <p class="role"><b>Local Arrangement Chair</b></p>
                     <div class="committee-images">
-                    <img
+                    <img style="width: 300px;height: 320px;"
                         src="./images/committee/granata.jpg"
                         loading="lazy" alt="" class="committee-image">
                       </div>
