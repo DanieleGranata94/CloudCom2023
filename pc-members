@@ -57,70 +57,89 @@
                         <div role="list" class="w-dyn-items">
                             <div role="listitem" class="w-dyn-item"><p class="paragraph-9"><b>PC member</b></p></div>
                             <br>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jing Gong, KTH Royal Institute of Technology </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Aaron Call, Barcelona Supercomputing Center </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> William Caban, Red Hat </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Alessio Faccia, AUE </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Tom Hacker, Purdue University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Antonio Pecchia, Università degli Studi del Sannio </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> In Kee Kim, University of Georgia </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrea Pinna, Università di Cagliari </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ronald Jabangwe, inriver AB </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Mário Antunes, Polytechnic of Leiria - ESTG and INESCTEC, CRACS, University of Porto </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Torben Worm, University of Southern Denmark </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Michele Mastroianni, University of Salerno </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Marta Catillo, Università del Sannio </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Carson Leung, University of Manitoba </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Amir Nassereldine, University at Buffalo </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ekasit Kijsipongse, NECTEC </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Florin Pop, University Politehnica of Bucharest, Romania / ICI Bucharest, Romania </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Juan J. Durillo, Leibniz Supercomputing Centre (LRZ), Munich </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Martin Gilje Jaatun, SINTEF Digital </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Nikos Parlavantzas, INSA Rennes </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Schahram Dustdar, Vienna University of Technology </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Frederic Desprez, INRIA </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Guang Yang, HVL </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Magnus Westerlund, Arcada University of Applied Science </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Adrien Lèbre, Inria  / Ecole des Mines </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Felix Freitag, Universitat Politècnica de Catalunya </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ricardo Noriega, Red Hat </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Filipe Araujo, Univ. of Coimbra </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Tamas Lukovszki, Eötvös Loránd University, Budapest </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jorge Roa, UTN-FRSF-CONICET </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Vincent Chimaobi Emeakaroha, Munster Technological University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Emanuele Carlini, ISTI-CNR </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Luís Veiga, Universidade de Lisboa </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Che-Rung Lee, National Tsing Hua University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Chen Wang, IBM </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrea De Salve, ISASI -CNR </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Huashan Yu, Peking University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Alexandru Costan, INRIA </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Luiz F. Bittencourt, University of Campinas </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Barbara Guidi, Department of Computer Science, University of Pisa </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Pedro Furtado, Univ. Coimbra / CISUC </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Luca Oneto, University of Genoa </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jedrzej Musial, Poznan University of Technology </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrei Tchernykh, CICESE Research Center </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Kevin Qixiang Pang, Confederation College </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ziming Zhao, University at Buffalo </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Xiaokuan Zhang, The Ohio State University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Daniel Grosu, Wayne State University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Hung-Min Sun, National Tsing Hua University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Dana Petcu, West University of Timisoara </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Yuhong Li, University of Illinois at Urbana and Champaign </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Fabrizio Marozzo, DIMES, University of Calabria </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Haibing Lu, Santa Clara University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Michele Colajanni, University of Bologna </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Yuqiong Sun, Facebook </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Kaiwen Zhang, École de technologie supérieure de Montréal </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Bahman Javadi, Western Sydney University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Yan Bai, University of Washington </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Xingwei Wang, College of Information Science and Engineering, Northeastern University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Dieter Gollmann, Hamburg University of Technology </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Chathura Sarathchandra, InterDigital International Labs (Europe) </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Posco Fung Po Tso, Loughborough University </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Georgios L. Stavrinides, Aristotle University of Thessaloniki </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Laura Ricci, dipartimento di informatica, Univ. di Pisa </p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jing Gong, KTH Royal Institute of Technology, Sweden</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Aaron Call, Barcelona Supercomputing Center, Spain</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> William Caban, Red Hat, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Alessio Faccia, AUE, United Arab Emirates</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Tom Hacker, Purdue University, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Antonio Pecchia, Università degli Studi del Sannio, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> In Kee Kim, University of Georgia, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrea Pinna, Università di Cagliari, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ronald Jabangwe, inriver AB, Sweden</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> MÃrio Antunes, Polytechnic of Leiria - ESTG and INESCTEC, CRACS, University of Porto, Portugal</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Torben Worm, University of Southern Denmark, Denmark</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Michele Mastroianni, University of Salerno, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Marta Catillo, Università del Sannio, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Carson Leung, University of Manitoba, Canada</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Amir Nassereldine, University at Buffalo, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ekasit Kijsipongse, NECTEC, Thailand</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Florin Pop, University Politehnica of Bucharest, Romania</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Juan J. Durillo, Leibniz Supercomputing Centre (LRZ), Germany</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Martin Gilje Jaatun, SINTEF Digital, Norway</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Nikos Parlavantzas, INSA Rennes, France</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Schahram Dustdar, Vienna University of Technology, Austria</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Frederic Desprez, INRIA, France</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Guang Yang, HVL, Norway</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Magnus Westerlund, Arcada University of Applied Science, Finland</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Adrien LÃbre, Inria  / Ecole des Mines, France</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Felix Freitag, Universitat PolitÃcnica de Catalunya, Spain</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ricardo Noriega, Red Hat, Spain</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Filipe Araujo, Univ. of Coimbra, Portugal</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Tamas Lukovszki, Eötvös Loránd University, Hungary</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jorge Roa, UTN-FRSF-CONICET, Argentina</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Vincent Chimaobi Emeakaroha, Munster Technological University, Ireland</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Emanuele Carlini, ISTI-CNR, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Luis Veiga, Universidade de Lisboa, Portugal</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Che-Rung Lee, National Tsing Hua University, Taiwan</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Chen Wang, IBM, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrea De Salve, ISASI -CNR, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Huashan Yu, Peking University, China</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Alexandru Costan, INRIA, France</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Luiz F. Bittencourt, University of Campinas, Brazil</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Barbara Guidi, University of Pisa, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Pedro Furtado, Univ. Coimbra / CISUC, Portugal</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Luca Oneto, University of Genoa, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jedrzej Musial, Poznan University of Technology, Poland</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrei Tchernykh, CICESE Research Center, Mexico</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Kevin Qixiang Pang, Confederation College, Canada</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ziming Zhao, University at Buffalo, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Xiaokuan Zhang, The Ohio State University, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Daniel Grosu, Wayne State University, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Hung-Min Sun, National Tsing Hua University, Taiwan</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Dana Petcu, West University of Timisoara, Romania</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Yuhong Li, University of Illinois at Urbana and Champaign, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Fabrizio Marozzo, DIMES, University of Calabria, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Haibing Lu, Santa Clara University, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Michele Colajanni, University of Bologna, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Yuqiong Sun, Facebook, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Kaiwen Zhang, École de technologie supérieure de Montréal, Canada</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Bahman Javadi, Western Sydney University, Australia</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Yan Bai, University of Washington, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Xingwei Wang, Northeastern University, China</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Dieter Gollmann, Hamburg University of Technology, Germany</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Chathura Sarathchandra, InterDigital International Labs (Europe), United Kingdom</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Posco Fung Po Tso, Loughborough University, United Kingdom</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Georgios L. Stavrinides, Aristotle University of Thessaloniki, Greece</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Laura Ricci, Univ. di Pisa, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Helen Karatza, Aristotle University of Thessaloniki, Greece</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Kurt Tutschku, Blekinge Institute of Technology (BTH), Sweden</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Thierry Coupaye, Orange Labs, France</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Roberto Canonico, Universita di Napoli Federico II, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Mario Südholt, IMT Atlantique (Nantes), France</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Nicola Bena, University of Milan, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Albert Levi, Sabanci University, Turkey</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Long Wang, Tsinghua University, United States</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jemal Abawajy, Deakin University, Australia</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Senbo Fu, Carnegie Mellon University, China</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Alvaro Lopez Garcia, IFCA (CSIC-UC), Spain</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Antonio Esposito, Università della Campania "Luigi Vanvitelli", Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Silvio Pardi, INFN, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Francesco Palmieri, University of Salerno, Italy</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Anastasios Gounaris, Aristotle University of Thessaloniki, Greece</p></div>
+                            <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ke Wang, Google, United States
+</p></div>
+
+
 
                         </div>
                     </div>
