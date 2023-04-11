@@ -57,8 +57,6 @@
                         <div role="list" class="w-dyn-items">
                             <div role="listitem" class="w-dyn-item"><p class="paragraph-9"><b>PC member</b></p></div>
                             <br>
-
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Daniele Granata, University of Campania Luigi Vanvitelli </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Jing Gong, KTH Royal Institute of Technology </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Aaron Call, Barcelona Supercomputing Center </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> William Caban, Red Hat </p></div>
@@ -67,7 +65,6 @@
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Antonio Pecchia, Università degli Studi del Sannio </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> In Kee Kim, University of Georgia </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Andrea Pinna, Università di Cagliari </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Alessandra De Benedictis, University of Naples Federico II </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ronald Jabangwe, inriver AB </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Mário Antunes, Polytechnic of Leiria - ESTG and INESCTEC, CRACS, University of Porto </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Torben Worm, University of Southern Denmark </p></div>
@@ -76,9 +73,7 @@
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Carson Leung, University of Manitoba </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Amir Nassereldine, University at Buffalo </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Ekasit Kijsipongse, NECTEC </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Massimiliano Rak, University of Campania Luigi Vanvitelli </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Florin Pop, University Politehnica of Bucharest, Romania / ICI Bucharest, Romania </p></div>
-                        <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Valentina Casola, University of Naples Federico II </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Juan J. Durillo, Leibniz Supercomputing Centre (LRZ), Munich </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Martin Gilje Jaatun, SINTEF Digital </p></div>
                         <div role="listitem" class="w-dyn-item"><p class="paragraph-9"> Nikos Parlavantzas, INSA Rennes </p></div>
