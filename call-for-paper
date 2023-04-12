@@ -52,44 +52,7 @@
                 </p>
                 <p>The conference is co-sponsored by the Institute of Electrical and Electronics Engineers (IEEE), is steered by the Cloud Computing Association, and
                 draws on the excellence of its world-class Program Committee and its participants.</p>
-                <h2>Submission Guidelines</h2>
-                <p href="">Submitted papers must not substantially overlap papers that have been published or that are
-                    simultaneously submitted to a journal or a conference with proceedings. Authors must submit their
-                    papers by the deadline indicated below, <br>using the <a
-                        href="https://easychair.org/my/conference?conf=cloudcom2023">EasyChair submission
-                        system.</a><br>‍<br>Only PDF files will be accepted. Manuscripts need to be prepared according
-                    to the <a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank">IEEE CS
-                        format </a>. All regular paper submissions should be written in English with a maximum paper
-                    length of 8 pages, including references and everything. All submitted papers will be reviewed by at
-                    least three experts.<br><br>The conference and program chairs also invite researchers to submit
-                    original short papers. Short papers provide an opportunity to describe significant novel work in
-                    progress or research that is best communicated in an interactive or graphical format. Compared to
-                    full papers, their contribution may be narrower in scope, be applied to a narrower set of
-                    application domains, or have weaker empirical support than that expected for a full paper.
-                    Submissions likely to generate discussions in new and emerging areas of cloud computing and emerging
-                    applications are especially encouraged.<br>‍<br>Accepted papers must be presented at the conference.
-                    At least one author of each accepted paper must register to the conference, by the early date
-                    indicated by the organizers, and present the paper.<br>‍<br>The conference proceedings of CloudCom
-                    2023 will be published by IEEE Conference Publishing Service with ISBN and ISSN, and submitted to
-                    IEEE Xplore and indexing services such as Ei Compendex. Distinguished papers will be recommended for
-                    fast-track publication in the IEEE Transactions on Cloud Computing or invited to be included within
-                    a number of special issues in prestigious international journals.<br><br><em>The PDF file of Call
-                        For Papers (CFP) can be downloaded </em><a
-                        href="./CFP_CLOUDCOM2023.pdf"><em>here</em></a><em>.</em>
-                </p>
-                <h2>Important Dates</h2>
-                <ul role="list">
-                    <li>Paper Submission Deadline: &nbsp;1 July 2023
-                    <!--<span class="uppercase-gray small">(UPDATED)</span>--></li>
-                    <li>Author Notification:&nbsp;1 October 2023 <!--<span class="uppercase-gray small">(UPDATED)</span>-->
-                    </li>
-                    <li>Camera Ready Manuscript:&nbsp;1 November 2023 <!--<span
-                            class="uppercase-gray small">(UPDATED)</span>--></li>
-                    <li>Author Registration:TBD <!--<span class="uppercase-gray small">(UPDATED)</span>--></li>
-                </ul><a id="CFPButton" href="https://easychair.org/my/conference?conf=cloudcom2023"
-                    class="button-4 w-button">Submit Papers</a>
-            </div>
-            <div class="div-block-18">
+                            <div class="div-block-18">
                 <h1>Topic of Interest</h1>
                 <p><b>CLOUD ARCHITECTURE</b></p>
                 <ul role="list">
@@ -162,6 +125,46 @@
                 </ul>
 
             </div>
+
+
+                <h2>Submission Guidelines</h2>
+                <p href="">Submitted papers must not substantially overlap papers that have been published or that are
+                    simultaneously submitted to a journal or a conference with proceedings. Authors must submit their
+                    papers by the deadline indicated below, <br>using the <a
+                        href="https://easychair.org/my/conference?conf=cloudcom2023">EasyChair submission
+                        system.</a><br>‍<br>Only PDF files will be accepted. Manuscripts need to be prepared according
+                    to the <a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank">IEEE CS
+                        format </a>. All regular paper submissions should be written in English with a maximum paper
+                    length of 8 pages, including references and everything. All submitted papers will be reviewed by at
+                    least three experts.<br><br>The conference and program chairs also invite researchers to submit
+                    original short papers. Short papers provide an opportunity to describe significant novel work in
+                    progress or research that is best communicated in an interactive or graphical format. Compared to
+                    full papers, their contribution may be narrower in scope, be applied to a narrower set of
+                    application domains, or have weaker empirical support than that expected for a full paper.
+                    Submissions likely to generate discussions in new and emerging areas of cloud computing and emerging
+                    applications are especially encouraged.<br>‍<br>Accepted papers must be presented at the conference.
+                    At least one author of each accepted paper must register to the conference, by the early date
+                    indicated by the organizers, and present the paper.<br>‍<br>The conference proceedings of CloudCom
+                    2023 will be published by IEEE Conference Publishing Service with ISBN and ISSN, and submitted to
+                    IEEE Xplore and indexing services such as Ei Compendex. Distinguished papers will be recommended for
+                    fast-track publication in the IEEE Transactions on Cloud Computing or invited to be included within
+                    a number of special issues in prestigious international journals.<br><br><em>The PDF file of Call
+                        For Papers (CFP) can be downloaded </em><a
+                        href="./CFP_CLOUDCOM2023.pdf"><em>here</em></a><em>.</em>
+                </p>
+                <h2>Important Dates</h2>
+                <ul role="list">
+                    <li>Paper Submission Deadline: &nbsp;1 July 2023
+                    <!--<span class="uppercase-gray small">(UPDATED)</span>--></li>
+                    <li>Author Notification:&nbsp;1 October 2023 <!--<span class="uppercase-gray small">(UPDATED)</span>-->
+                    </li>
+                    <li>Camera Ready Manuscript:&nbsp;1 November 2023 <!--<span
+                            class="uppercase-gray small">(UPDATED)</span>--></li>
+                    <li>Author Registration:TBD <!--<span class="uppercase-gray small">(UPDATED)</span>--></li>
+                </ul><a id="CFPButton" href="https://easychair.org/my/conference?conf=cloudcom2023"
+                    class="button-4 w-button">Submit Papers</a>
+            </div>
+
 
 
 
