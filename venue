@@ -46,7 +46,9 @@
 <body class="body">
 <div id="nav_bar"></div>
 
-
+<div class="heading-section wf-section">
+    <div class="w-container"><h1 class="heading">VENUE</h1></div>
+</div>
 <section id="position-around" class="content-section">
 	<div class="wrap cf">
 		<h1 class="beta">Hotel's surroundings</h1>
@@ -88,10 +90,8 @@ From there, you can take a taxi or enjoy a pleasant walk along Via Toledo and th
 </section>
 
 
-<div class="heading-section wf-section">
-    <div class="w-container"><h1 class="heading">VENUE</h1></div>
-</div>
-<div class="information-section wf-section">
+
+<!--<div class="information-section wf-section">
     <div class="venue-column w-row">
         <div class="column-9 w-col w-col-7"><p class="body-paragraph"><span class="text-span-19"><strong>Conference Venue – </strong></span><a
                 href="https://www.hilton.com/en/hotels/bkkhitw-millennium-hilton-bangkok/" class="link"><span
@@ -109,7 +109,7 @@ From there, you can take a taxi or enjoy a pleasant walk along Via Toledo and th
             to the conference venue address stated above.</p></div>
         <div class="w-col w-col-5"></div>
     </div>
-</div>
+</div>-->
 
 
 
