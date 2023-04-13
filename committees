@@ -106,14 +106,6 @@
             <h1 class="heading-3">IEEE&nbsp;CloudCom 2023 Organizing Committee</h1>
             <div class="committee-column w-row">
                 <br>
-              <!--<div class="w-col w-col-3">
-                <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66591f-f7fcff37" class="committee-list">Chairs:</p>
-              </div>
-            <div class="committee-column w-row">-->
-
-<!--<div class="w-col w-col-3">
-                <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66592e-f7fcff37" class="committee-list">Chairs:</p>
-              </div>-->
               <div class="committee-div-block w-col w-col-12">
                 <div  class="committee-div-block">
                   <div class="collection-of-committee w-dyn-list">
@@ -184,104 +176,11 @@
                 </div>
               </div>
             </div>
-            <!--<div class="committee-column w-row">
-              <div class="w-col w-col-3">
-                <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66593d-f7fcff37" class="committee-list">Technical Program
-                  Committee Co-Chair:</p>
-              </div>
-              <div class="w-col w-col-9">
-                <div class="collection-of-committee w-dyn-list">
-                  <div role="list" class="w-dyn-items w-row">
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                          src="./images/committee/rak.jpeg"
-                          loading="lazy" alt="" class="committee-image">
-                        <p class="name-of-committee">Massimiliano Rak</p>
-                        <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
-                    </div>
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                        src="./images/committee/de_benedictis.jpg"
-                        loading="lazy" alt="" class="committee-image">
-                      <p class="name-of-committee">Alessandra De Benedictis</p>
-                      <p class="affiliation-of-committee">University of Naples Federico II, Italy</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>-->
-            <!--<div class="committee-column w-row">
-              <div class="w-col w-col-3">
-                <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66594b-f7fcff37" class="committee-list">Technical Program
-                  Committee Vice Chair:</p>
-              </div>
-              <div class="w-col w-col-9">
-                <div class="committee-div-block">
-                  <div class="collection-of-committee w-dyn-list">
-                    <div role="list" class="w-dyn-items w-row">
-                      <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                          src="./Committees _ IEEE CLOUDCOM 2022_files/626226917d2d9fff40ced813_6255b68b015cb733c6b8cb4c_chenw_IBM_big_square-p-500.jpg"
-                          loading="lazy" alt="" class="committee-image">
-                        <p class="name-of-committee">Chen Wang</p>
-                        <p class="affiliation-of-committee">IBM Research, USA</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>-->
-            <!--<div class="committee-column w-row">
-              <div class="w-col w-col-3">
 
-<p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66595a-f7fcff37" class="committee-list">Publication Chair:</p>
-              </div>
-              <div class="w-col w-col-9">
-                <div class="collection-of-committee w-dyn-list">
-                  <div role="list" class="w-dyn-items w-row">
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                        src="./Committees _ IEEE CLOUDCOM 2022_files/62626c8091b9f71e3fda8539_13000573.jpg" loading="lazy"
-                        alt="" class="committee-image">
-                      <p class="name-of-committee">Sunsern Cheamanunkul</p>
-                      <p class="affiliation-of-committee">Mahidol University, Thailand</p>
-                    </div>
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                        src="./Committees _ IEEE CLOUDCOM 2022_files/62612d700843e87fd4aadcbf_62610cf1112538646d22a24a_image001-p-500.jpeg"
-                        loading="lazy" alt="" class="committee-image">
-                      <p class="name-of-committee">Senbo Fu</p>
-                      <p class="affiliation-of-committee">Huawei Cloud, China</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>-->
-            <!--<div class="committee-column w-row">
-              <div class="w-col w-col-3">
-                <p id="w-node-fb2c1974-1707-dd4a-7ba9-c27c0e66593d-f7fcff37" class="committee-list">Local Arrangement Chair:
-                </p>
-              </div>
-              <div class="w-col w-col-9">
-                <div class="collection-of-committee w-dyn-list">
-                  <div role="list" class="w-dyn-items w-row">
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                          src="./images/committee/granata.jpg"
-                          loading="lazy" alt="" class="committee-image">
-                        <p class="name-of-committee">Daniele Granata</p>
-                        <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
-                    </div>
-                    <div role="listitem" class="w-dyn-item w-col w-col-6"><img
-                        src="./images/committee/diguida.jpg"
-                        loading="lazy" alt="" class="committee-image">
-                      <p class="name-of-committee">Giacomo Di Guida</p>
-                      <p class="affiliation-of-committee">University of Campania Luigi Vanvitelli, Italy</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            -->
 
 
             </div>
-          </div>
-<div class="committee-info">
+
 <h1 style="align-content: center" class="heading-3">IEEE&nbsp;CloudCom Technical Program Committee</h1>
 <br>
 
@@ -382,7 +281,7 @@
                         </div>
                     </div>
                 </div>
-
+            </div>
             </div>
         </div>
     </div>
