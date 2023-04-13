@@ -49,14 +49,12 @@
 <div class="heading-section wf-section">
     <div class="w-container"><h1 class="heading">VENUE</h1></div>
 </div>
-
-<h1>Hotel Royal Continental</h1>
-<div class="w-container" id="position-intro-text">
+<a href="https://www.royalgroup.it/royalcontinental/en"><h1>Hotel Royal Continental</h1></a>
+<div>
 	<div class="wrap">
 		<p>The Royal Continental is located on <em>Naples’ waterfront</em>. It’s easy to lose yourself between the sea and the symbols of the city: opposite the hotel, you’ll see the legendary Castel dell‘Ovo and the Borgo Marinari, just a few minutes walk away is the Piazza del Plebiscito and a little further, the Maschio Angioino.</p><p>The hotel is located in the centre of the large pedestrianised island of the promenade, while still being well-connected to the rest of the city.</p>	</div>
 </div>
 
-<section id="position-around" class="content-section">
 	<div class="wrap cf">
 		<h1 class="beta">Hotel's surroundings</h1>
 		<div class="content-columned odd has-image">
@@ -76,10 +74,7 @@
 			<p>The hotel is one of the top venues of the city, with its brunches and cocktails at the Roof, rooftop restaurant, Lounge Bar and Bistro.</p><p>Just a few steps away are the <em>seafront</em>, Borgo Marinari and the Chiaia district, all perfect after-dinner spots: an abundance of restaurants, small pubs and characteristic bars.</p>			<img class="image" src="https://www.royalgroup.it/royalcontinental/assets/media/position/vita-notturna-dintorni-hotel-castel-dell-ovo.jpg" alt="">
 		</div>
 	</div>
-</section>
 
-
-<section id="position-howto" class="content-section unpad">
 	<div class="wrap cf">
 		<h1 class="beta">How to reach the Hotel</h1>
 		<div class="content-columned small first">
@@ -94,7 +89,6 @@ From there, you can take a taxi or enjoy a pleasant walk along Via Toledo and th
 			<h2 class="title">By car</h2>
 			<p>From the <em>motorway</em>, drive towards Piazza Municipio/Porto, continue on Via Acton, cross the Tunnel della Vittoria and follow Via Morelli. After 100m turn left into Piazza Vittoria.<br>Turn left to stay in the square and then turn left into via Arcoleo. Just before the entrance to the Tunnel della Vittoria, turn right into via Chiatamone. At number 54, turn right into via Dumas and at the end of the road turn left into the garage of the hotel.</p>		</div>
 	</div>
-</section>
 
 
 
