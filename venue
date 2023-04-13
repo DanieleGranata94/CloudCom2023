@@ -51,7 +51,7 @@
 </div>
 
 <h1>Hotel Royal Continental</h1>
-<div class="content-section centered-block" id="position-intro-text">
+<div class="w-container" id="position-intro-text">
 	<div class="wrap">
 		<p>The Royal Continental is located on <em>Naples’ waterfront</em>. It’s easy to lose yourself between the sea and the symbols of the city: opposite the hotel, you’ll see the legendary Castel dell‘Ovo and the Borgo Marinari, just a few minutes walk away is the Piazza del Plebiscito and a little further, the Maschio Angioino.</p><p>The hotel is located in the centre of the large pedestrianised island of the promenade, while still being well-connected to the rest of the city.</p>	</div>
 </div>
