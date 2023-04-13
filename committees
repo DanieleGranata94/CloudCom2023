@@ -150,7 +150,24 @@
                       <p class="name-of-committee"><b>Umberto Villano</b></p>
                       <p class="affiliation-of-committee">University of Sannio, Italy</p>
                     </div>
-                    <br>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
+            </div>
+
+            <div class="committee-info">
+            <h1 class="heading-3">IEEE&nbsp;CloudCom 2023 Local Committee</h1>
+            <div class="committee-column w-row">
+                <br>
+              <div class="committee-div-block w-col w-col-12">
+                <div  class="committee-div-block">
+                  <div class="collection-of-committee w-dyn-list">
+                    <div role="list" class="w-dyn-items w-row">
+
                     <div role="listitem" class="w-dyn-item w-col w-col-6">
                     <p class="role"><b>Local Arrangement Chair</b></p>
                     <div class="committee-images">
