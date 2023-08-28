@@ -53,6 +53,10 @@
   <div class="wrap">
     <a href="https://www.royalgroup.it/royalcontinental/en"><h1>Hotel Royal Continental</h1></a>
     <p>Via Partenope, 38, 80121 Napoli, Italy</p>
+    <div id="map-container"></div>
+
+
+
     <br></br>
     <p>The Royal Continental is located on <em>Naples’ waterfront</em>. It’s easy to lose yourself between
       the sea and the symbols of the city: opposite the hotel, you’ll see the legendary Castel dell‘Ovo and
@@ -118,6 +122,28 @@
     </div>
 </div>-->
 
+<script>
+  // Funzione di inizializzazione della mappa
+  function initMap() {
+    // Costruzione dell'oggetto mappa
+    var map = new google.maps.Map(document.getElementById('map-container'), {
+      center: {lat: 40.831018, lng: 14.246685}, // Coordinate dell'indirizzo
+      zoom: 15 // Livello di zoom
+    });
+
+    // Aggiunta del marker dell'indirizzo
+    var marker = new google.maps.Marker({
+      position: {lat: 40.831018, lng: 14.246685},
+      map: map,
+      title: 'Via Partenope, 38, Napoli'
+    });
+  }
+</script>
+
+<!-- Inclusione dell'API di Google Maps -->
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=TUA_API_KEY&callback=initMap">
+</script>
 
 
 <div id="contacts"></div>
