@@ -53,8 +53,7 @@
   <div class="wrap">
     <a href="https://www.royalgroup.it/royalcontinental/en"><h1>Hotel Royal Continental</h1></a>
     <p>Via Partenope, 38, 80121 Napoli, Italy</p>
-    <div id="map-container"></div>
-
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.9005003024236!2d14.244333975746294!3d40.83014913037467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133b09ac41157ba7%3A0x1096a19e3ee3d3bf!2sRoyal%20Continental%20Hotel!5e0!3m2!1sen!2sit!4v1693253658989!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
     <br></br>
@@ -122,28 +121,6 @@
     </div>
 </div>-->
 
-<script>
-  // Funzione di inizializzazione della mappa
-  function initMap() {
-    // Costruzione dell'oggetto mappa
-    var map = new google.maps.Map(document.getElementById('map-container'), {
-      center: {lat: 40.831018, lng: 14.246685}, // Coordinate dell'indirizzo
-      zoom: 15 // Livello di zoom
-    });
-
-    // Aggiunta del marker dell'indirizzo
-    var marker = new google.maps.Marker({
-      position: {lat: 40.831018, lng: 14.246685},
-      map: map,
-      title: 'Via Partenope, 38, Napoli'
-    });
-  }
-</script>
-
-<!-- Inclusione dell'API di Google Maps -->
-<script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=TUA_API_KEY&callback=initMap">
-</script>
 
 
 <div id="contacts"></div>
