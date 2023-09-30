@@ -1667,6 +1667,14 @@
   text-align: center;
 }
 
+/* Add this CSS to your stylesheet or within a <style> tag in your HTML */
+.table-spacing td,
+.table-spacing th {
+  border: 1px solid;
+  padding: 10px; /* Adjust the padding value to control the space between cells */
+  text-align: center;
+}
+
 .div-block-20 {
   width: 1px;
   background-color: #000;
