@@ -1,6 +1,21 @@
 <html data-wf-domain="https://parsec2.unicampania.it/cloudcom2023/" data-wf-page="620dfd981d030ce149307be3"
       data-wf-site="620dfd981d030cade8307bdd" class=" w-mod-js">
 
+<style>
+    .pay-button {
+        background-color: #4CAF50; /* Green background color */
+        border: none; /* Remove borders */
+        color: white; /* White text color */
+        padding: 10px 20px; /* Add some padding */
+        text-align: center; /* Center the text */
+        text-decoration: none; /* Remove underline */
+        display: inline-block; /* Display as inline-block */
+        font-size: 16px; /* Increase font size */
+        margin: 4px 2px; /* Add margin */
+        cursor: pointer; /* Add a pointer cursor on hover */
+    }
+</style>
+
 <head>
     <meta charset="utf-8">
     <title>IEEE CLOUDCOM 2023: The 14th IEEE International Conference on Cloud Computing Technology and Science‍</title>
@@ -127,7 +142,10 @@
         <li class="list-item-8">Additional pages will incur a fee of 100 EUR, with a maximum allowance of one page.
         </li>
     </ul>
-        </div>
+
+
+
+
         <div class="button-block">
             <h2>Payment by Bank Wire Transfer</h2>
             <p>Please download and fill the registration form at the following link:</p>
@@ -140,13 +158,115 @@
             <p><strong>IBAN:</strong> IT26B0538715000000001321721</p>
             <p><strong>SWIFT/BIC:</strong> BPMOIT22XXX</p>
 
-            <p>Please contact <a href="mailto:cerictscrl@gmail.com">cerictscrl@gmail.com</a> for any issues (your email should include the accepted paper ID number and title of the accepted paper).</p>    </div>
+        </div>
 
-        <!--<p style="font-size: 14px; opacity: 0.8;">If you need an invitation letter, please refer to <a
-                href="/static/media/registration-and-refund-policy.ad7db78211013ee47484.pdf" target="_blank"
-                style="text-decoration: underline;">Registration and Refund Policy</a>.</p>-->
+    <div class="button-block">
+
+
+    <h2>Payment by Credit Card</h2>
+
+        <p>Please download and fill the registration form at the following link:</p>
+        <p><a href="./CloudCom2023_registration_form.docx">Download Registration Form</a></p>
+        <p>Send the form to <a href="mailto:cerictscrl@gmail.com">cerictscrl@gmail.com</a></p>
+
+        <h3>Fee Calculator</h3>
+
+        <label for="membership_type">Membership</label>
+        <select id="membership_type" onchange="calculate()">
+            <option value="ieee_member">IEEE Member</option>
+            <option value="ieee_life_member">IEEE Life Member</option>
+            <option value="non_member">Non-Member</option>
+        </select>
+        <br>
+
+        <label for="student_type">Are you a student?</label>
+        <select id="student_type" onchange="calculate()">
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select>
+        <br>
+
+        <label for="ticket_type">Ticket Type</label>
+        <select id="ticket_type" onchange="calculate()">
+            <option value="listener">Listener</option>
+            <option value="speaker">Speaker</option>
+        </select>
+        <br>
+
+        <label for="extra_pages">Extra pages</label>
+        <input type="number" id="extra_pages" value="0" min="0" max="1" onchange="calculate()">
+        <br>
+
+        <p>Total Fee: <span id="total_fee">0</span></p>
+
+        <script>
+            function calculate() {
+                var membershipType = document.getElementById("membership_type").value;
+                var studentType = document.getElementById("student_type").value;
+                var ticketType = document.getElementById("ticket_type").value;
+                var extraPages = parseFloat(document.getElementById("extra_pages").value) || 0;
+
+                var fee = 0;
+
+                if (studentType === "no")
+                {
+                    if (membershipType === "ieee_member")
+                    {
+                        fee += ticketType === "speaker" ? 850 : 450;
+                    }
+                    if (membershipType === "ieee_life_member")
+                    {
+                        fee += ticketType === "speaker" ? 470 : 250;
+                    }
+                    if (membershipType === "non_member")
+                    {
+                        fee += ticketType === "speaker" ? 1020 : 540;
+                    }
+                }
+                if (studentType === "yes")
+                {
+                    if (membershipType === "ieee_member")
+                    {
+                        fee += ticketType === "speaker" ? 595 : 315;
+                    }
+                    if (membershipType === "ieee_life_member")
+                    {
+                        fee += ticketType === "speaker" ? 470 : 250;
+                    }
+                    if (membershipType === "non_member")
+                    {
+                        fee += ticketType === "speaker" ? 715 : 380;
+                    }
+                }
+
+
+                // Add the cost for extra pages (e.g., 10 per page)
+                fee += extraPages * 100;
+
+                document.getElementById("total_fee").textContent = "EUR " + fee.toFixed(2); // Display fee in EUR
+            }
+
+            calculate(); // Call the calculate function initially to set the default value
+        </script>
+
+
+        <a href="https://tspay.me/lpq1vg" class="pay-button">Pay Here</a>
 
     </div>
+
+        <br>
+        <p>Please contact <a href="mailto:cerictscrl@gmail.com">cerictscrl@gmail.com</a> for any issues (your email should include the accepted paper ID number and title of the accepted paper).</p>    </div>
+
+
+
+
+    </div>
+
+
+
+
+
+
 
     <!--<div class="registration-payment-table">
         <div class="registration-payment-table-options"><h3>CloudCom 2023 Registration</h3>
